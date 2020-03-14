@@ -1,6 +1,6 @@
 {
   "name": "@aredridel/fractal-svelte-adapter",
-  "version": "1.0.0-1",
+  "version": "1.0.0-2",
   "description": "An adapter for fractal styleguide (1.x) to use svelte components",
   "main": "index.js",
   "repository": {
