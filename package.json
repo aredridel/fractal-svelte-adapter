@@ -1,0 +1,25 @@
+{
+  "name": "@aredridel/fractal-svelte-adapter",
+  "version": "1.0.0",
+  "description": "An adapter for fractal styleguide (1.x) to use svelte components",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aredridel/fractal-svelte-adapter.git"
+  },
+  "keywords": [
+    "fractal",
+    "svelte"
+  ],
+  "author": "Aria Stewart <aredridel@dinhe.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aredridel/fractal-svelte-adapter/issues"
+  },
+  "homepage": "https://github.com/aredridel/fractal-svelte-adapter#readme",
+  "peerDependencies": {
+    "@frctl/fractal": "^1.2.0",
+    "highlight.js": "^9.18.1",
+    "svelte": "^3.19.0"
+  }
+}
