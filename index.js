@@ -68,7 +68,9 @@ class SvelteAdapter extends Adapter {
       <html>
         <head>
           ${head || ""}
-          <style>${css.code}${meta.env.heads.map(e => e.code).join("\n")}</style>
+          <style>${css.code}${meta.env.heads
+      .map(e => e.code)
+      .join("\n")}</style>
         </head>
         ${html}
       </html>
