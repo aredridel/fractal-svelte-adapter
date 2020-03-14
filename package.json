@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/aredridel/fractal-svelte-adapter/issues"
   },
-  "homepage": "https://github.com/aredridel/fractal-svelte-adapter#readme"
+  "homepage": "https://github.com/aredridel/fractal-svelte-adapter#readme",
+  "peerDependencies": {
+    "svelte": "^3.10.0"
+  },
+  "devDependencies": {
+    "svelte": "^3.19.2"
+  }
 }
