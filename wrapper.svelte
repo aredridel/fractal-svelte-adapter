@@ -1,6 +1,6 @@
 <script>
   import { setContext } from "svelte";
-  import * as utils from "@frctl/fractal/src/utils.js";
+  import * as utils from "@frctl/core/src/utils.js";
   export let app;
   export let env;
   export let component;
