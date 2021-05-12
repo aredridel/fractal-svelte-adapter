@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/aredridel/fractal-svelte-adapter#readme",
   "peerDependencies": {
-    "@frctl/fractal": "^1.2.0",
+    "@frctl/fractal": "^1.5.0",
     "highlight.js": "^9.18.1",
     "svelte": "^3.19.0"
   },
